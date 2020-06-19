@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SoftxpertTask</string>
+    <string name="car_status">Car Status:</string>
+    <string name="construction_year">Construction Year:</string>
+    <string name="an_error_has_occured_please_swipe_to_refresh">An error has occured, please swipe to refresh.</string>
+    <string name="used">Used</string>
+    <string name="new_car">New</string>
+</resources>
